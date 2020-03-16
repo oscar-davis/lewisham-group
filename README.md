@@ -1,13 +1,10 @@
 # Welcome to Lewisham Covid 19 Mutual Aid
-💜This is a community organising page to support the most vulnerable and isolated in our community during the Covid-19 outbreak.   
-[https://www.lewishamcovidaid.co.uk/](https://www.lewishamcovidaid.co.uk/)
-## online groups  
+💜This is a community organising page to support the most vulnerable and isolated in our community during the Covid-19 outbreak.
 
-### facebook   
+## Online Groups
+### Facebook   
 https://www.facebook.com/groups/906156979855211/  
-
-
-### whatsapp
+### Whatsapp
 [Bellingham and Whitefoot](https://chat.whatsapp.com/Einpexb4aMs314JhCA4int)  
 [Blackheath](https://chat.whatsapp.com/GuiZ8L5NXSUAjUf2QV5Stl)  
 [Brockley (includes St Johns)](https://chat.whatsapp.com/BRZksqTruF9LT9s7GbLTdT)  
@@ -22,41 +19,3 @@ https://www.facebook.com/groups/906156979855211/
 [Hatcham Park (Area between Avonley, Hunsdon, Brocklehurst, New Cross rd)](https://chat.whatsapp.com/HxiuNhqpIyLE4X1U7JfoJc)  
 [Sydenham](https://chat.whatsapp.com/F2SzjyPoodG9aD5a29IEIo)  
 [Telegraph Hill](https://chat.whatsapp.com/Ds91FOu2zv5BNAUC7uSLZw)  
-
-## how to contribute to this site
-
-You can use the [editor on GitHub](https://github.com/lewishamcovid19mutualaid/infosite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lewishamcovid19mutualaid/infosite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
